@@ -1,0 +1,11 @@
+.not-found-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found {
+  color: green;
+  font-size: 3.5rem;
+}
